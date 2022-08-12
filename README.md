@@ -17,7 +17,7 @@
   - Eligibility Period
   - Practice/Provider Affiliation
   - Conditions (Disease States)
-  - Demographics
+  - Demographics (Age, Race/Ethnicity)
  
 ### Method of Analysis 
  
